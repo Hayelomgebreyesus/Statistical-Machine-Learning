@@ -1,0 +1,26 @@
+OrderID,Customer,City,Product,Category,Quantity,UnitPrice,OrderDate,SalesChannel
+1001,Alice,Stockholm,Laptop,Electronics,1,899.99,2026-01-05,Online
+1002,Bob,Gothenburg,Headphones,Electronics,2,79.5,2026-01-07,Store
+1003,Charlie,Malmo,Desk Chair,Furniture,1,249.0,2026-01-09,Online
+1004,Diana,Uppsala,Notebook,Stationery,5,3.99,2026-01-10,Store
+1005,Ethan,Stockholm,Monitor,Electronics,2,219.99,2026-01-12,Online
+1006,Fatima,Gothenburg,Pen Set,Stationery,3,8.5,2026-01-14,Online
+1007,George,Malmo,Bookshelf,Furniture,1,159.0,2026-01-15,Store
+1008,Hana,Vasteras,Keyboard,Electronics,1,49.99,2026-01-18,Online
+1009,Ivan,Uppsala,Desk Lamp,Furniture,2,34.95,2026-01-20,Store
+1010,Julia,Stockholm,Notebook,Stationery,10,3.99,2026-01-22,Online
+1011,Kai,Gothenburg,Laptop,Electronics,1,949.0,2026-01-24,Store
+1012,Lina,Malmo,Headphones,Electronics,1,89.0,2026-01-26,Online
+1013,Mateo,Vasteras,Office Desk,Furniture,1,329.0,2026-01-28,Store
+1014,Nora,Uppsala,Pen Set,Stationery,4,8.5,2026-02-02,Online
+1015,Omar,Stockholm,Monitor,Electronics,1,229.0,2026-02-04,Store
+1016,Priya,Gothenburg,Desk Chair,Furniture,2,239.0,2026-02-06,Online
+1017,Quinn,Malmo,Keyboard,Electronics,2,54.99,2026-02-08,Store
+1018,Ravi,Vasteras,Notebook,Stationery,8,3.99,2026-02-10,Online
+1019,Sara,Uppsala,Bookshelf,Furniture,1,169.0,2026-02-12,Store
+1020,Theo,Stockholm,Desk Lamp,Furniture,3,32.5,2026-02-15,Online
+1021,Uma,Gothenburg,Laptop,Electronics,1,929.0,2026-02-17,Online
+1022,Victor,Malmo,Pen Set,Stationery,2,8.5,2026-02-19,Store
+1023,Wendy,Uppsala,Monitor,Electronics,1,239.99,2026-02-21,Online
+1024,Yusuf,Vasteras,Office Desk,Furniture,1,319.0,2026-02-23,Store
+1025,Zoe,Stockholm,Headphones,Electronics,3,74.99,2026-02-25,Online
